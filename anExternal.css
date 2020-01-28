@@ -1,0 +1,47 @@
+body {
+	background-color: orange;
+}
+
+.bobaImg {
+	height: 50px;
+	width: 50px;
+}
+
+#container{
+	position: relative;
+}
+
+#koalaImg {
+	width: 100%; 
+	height: auto;
+	margin: 20px;
+}
+
+#centered {
+	left: 50%;
+	border-style: dotted;
+	font-size: 300%;
+	text-shadow: 50px 50px 50px purple;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white;
+ }
+ 
+span {
+ 	float: right;
+  	width: 0.7em;
+  	font-size: 300%;
+  	font-family: arial;
+  	line-height: 80%;
+}
+
+#rcorners2{
+ 	border-radius: 25px;
+  	border: 2px solid #ff0000;
+  	padding: 20px;
+  	width: 200px;
+  	height: 150px;
+}
