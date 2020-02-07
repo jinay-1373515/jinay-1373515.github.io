@@ -1,0 +1,28 @@
+body {
+	background-color: lavender;
+}
+
+h2{
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+	font-family: Arial;
+    font-weight: thin;
+    font-size: 20px;
+}
+
+legend{
+    font-family: Arial;
+    font-weight: bold;
+    font-weight: thin;
+    font-size: 30px;
+}
+
+label{
+    font-family: Arial;
+    font-size: 15px;
+}
